@@ -12,17 +12,17 @@ I have collected the dataset from kaggle and by scraping it from google images u
 The possible threatning guns are marked by a bounding box and the non threatning ones are marked with a bounding box as well.
 
 ### Active Threat
-![](image/demo_1.png)
+![](images/demo_1.jpg)
 
 ### Gun in Holster
-![](image/demo_2.png)
+![](images/demo_2.jpg)
 
 ### Smart phone in hand
-![](image/demo_3.png)
+![](images/demo_3.jpg)
 
 ### Confusion Matrix
 
-![](image/demo_4.png)
+![](image/demo_4.jpg)
 
 
 
